@@ -87,7 +87,7 @@
     <a href="mailto:binkukumar38@gmail.com">
         <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" title="Send an Email">
     </a> &nbsp;
-    <a href="https://github.com/BinkuKumarSinha" target="_blank">
+    <a href="[https://github.com/BinkuKumarSinha](https://github.com/binkukumarsinha)" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="Visit my GitHub Profile">
     </a>
 </p>
